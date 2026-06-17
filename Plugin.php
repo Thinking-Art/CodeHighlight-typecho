@@ -3,9 +3,9 @@
  * 代码高亮插件，支持显示行号、代码复制、语言类型显示
  * 
  * @package CodeHighlight
- * @author thinking
+ * @author Thinking
  * @version 0.1
- * @link https://github.com
+ * @link https://github.com/Thinking-Art/CodeHighlight-typecho
  */
 class CodeHighlight_Plugin implements Typecho_Plugin_Interface
 {

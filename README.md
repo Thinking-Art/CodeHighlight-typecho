@@ -1,12 +1,10 @@
 # 🌟 Typecho 代码高亮插件 (CodeHighlight)
 
 ![Typecho Version](https://img.shields.io/badge/Typecho-1.2+-blue.svg)
-![PrismJS Version](https://img.shields.io/badge/Prism.js-1.29.0-green.svg)
+![PrismJS Version](https://img.shields.io/badge/Prism.js-1.30.0-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 一个现代、优雅且功能丰富的 Typecho 代码高亮插件。基于强大的 **Prism.js** 核心驱动，提供智能语法解析，并集成了极致美观的现代化主题、完美对齐的行号显示以及一键代码复制等增强特性。
-
-> 本插件经过深度重构，彻底解决了传统 Prism.js 插件常见的「行号贴脸」、「首行空行」、「双重渲染」等顽疾，为您带来丝滑的代码阅读体验。
 
 ---
 
